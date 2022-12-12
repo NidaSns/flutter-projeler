@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../constants/calendarConstants.dart';
+import '../../constants/calendar_constants.dart';
 
 class StyleTypes {
   static StyleTypes instance = StyleTypes._init();
