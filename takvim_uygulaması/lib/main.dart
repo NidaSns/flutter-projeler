@@ -3,7 +3,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:takvim_projesi/view/authenticate/service/login_service.dart';
 import 'package:takvim_projesi/view/authenticate/splash/splash_screen.dart';
-import 'package:takvim_projesi/view/home/takvim/calendarService.dart';
+import 'package:takvim_projesi/view/home/takvim/calendar_service.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
