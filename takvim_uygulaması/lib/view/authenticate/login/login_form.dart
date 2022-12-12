@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:takvim_projesi/core/base/state/base_state.dart';
-import 'package:takvim_projesi/core/components/style/StyleTypes.dart';
-import 'package:takvim_projesi/core/constants/calendarConstants.dart';
+import 'package:takvim_projesi/core/components/style/style_types.dart';
+import 'package:takvim_projesi/core/constants/calendar_constants.dart';
 
 class LoginForm extends StatefulWidget {
   final bool isLoading;
