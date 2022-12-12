@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:takvim_projesi/core/constants/calendarConstants.dart';
+import 'package:takvim_projesi/core/constants/calendar_constants.dart';
 
 class HistoryForm extends StatelessWidget {
   final Timestamp eventDate;
